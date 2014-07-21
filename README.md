@@ -124,7 +124,7 @@ Copy the executable file to the Xeon Phi and also copy all the train & test data
 Feel free to run the program like the style you run it on multi-core platform :)
      
 ## Notice ##
-All the source code downloaded from here can only be used for study or reasearch. If you want to use it for other purposes, please also contact us(Lei Jin, Zhaokang Wang, Rong Gu) first. 
+All the source code downloaded from here can only be used for study or reasearch. If you want to use it for other purposes, please also contact us(Lei Jin, Zhaokang Wang, [Rong Gu](http://pasa-bigdata.nju.edu.cn/people/ronggu/)) first. 
 
 **Disclaimer**: due to the special situation, we explicitly claims below: we will not be responsible for any issue as a result of mis-use problems here. 
 
