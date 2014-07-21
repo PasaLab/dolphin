@@ -1,6 +1,6 @@
-# Deep Learning on MIC
+# Dolphin
      
-Deep Neural Networks on Intel MIC architecture ( Intel Xeon Phi Coprocessor).
+Dolphin: Deep neural networks on Intel multicore and MIC architecture ( Intel Xeon Phi Coprocessor).
      
 ## Brief Introduction
      
