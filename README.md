@@ -1,6 +1,7 @@
 # Dolphin
      
 Dolphin: Deep neural networks on Intel multicore and MIC architecture ( Intel Xeon Phi Coprocessor).
+
      
 ## Brief Introduction
      
